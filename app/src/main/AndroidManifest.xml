@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="phuccoi96.theworst">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+<<<<<<< HEAD
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <!--them gg map-->
+=======
+>>>>>>> 13ed390808fb6e7407fc501414302a0d384bec2f
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<<<<<<< HEAD
+
+        <activity android:name=".NumberActivity"
+            android:label="Numbers"
+            android:theme="@style/NumberTheme"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".FamilyActivity"
+            android:label="Family"
+            android:theme="@style/FamilyTheme"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".PhraseActivity"
+            android:label="Phrases"
+            android:theme="@style/PhraseTheme"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".ColorActivity"
+            android:label="Colors"
+            android:theme="@style/ColorTheme"
+            android:parentActivityName=".MainActivity"></activity>
+
+=======
+>>>>>>> 13ed390808fb6e7407fc501414302a0d384bec2f
+        <activity android:name=".SignIn" />
+        <activity android:name=".SignUp" />
+        <activity
+            android:name=".Home"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme" />
+<<<<<<< HEAD
+        <activity
+            android:name=".HomeFood"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".PlaceDetail" />
+        <activity android:name=".Foodlist" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAT72QUpbF5_2kRjFHzEEQ6q5wFWSRiIlo" />
+
+        <activity android:name=".activity_GGMAP" />
+        <activity android:name=".Main_Home"></activity>
+        <activity android:name=".Main_Language"></activity>
+
+        <activity android:name=".FoodDetail"></activity>
+
+        <activity android:name=".PlaceDetail1"></activity>
+
+
+
+    </application>
+
+
+=======
+        <activity android:name=".PlaceDetail"></activity>
+    </application>
+
+>>>>>>> 13ed390808fb6e7407fc501414302a0d384bec2f
+</manifest>

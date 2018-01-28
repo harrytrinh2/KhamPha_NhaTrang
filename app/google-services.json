@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "156831717753",
+    "firebase_url": "https://tournhatrang96.firebaseio.com",
+    "project_id": "tournhatrang96",
+    "storage_bucket": "tournhatrang96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156831717753:android:bc4ab7d74e6ea770",
+        "android_client_info": {
+          "package_name": "phuccoi96.theworst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156831717753-776slr41ph80brvojhrdthbvasfajgtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "phuccoi96.theworst",
+            "certificate_hash": "9d3bcd9aed1968d6222d8d14ac3654f2b0c846b5"
+          }
+        },
+        {
+          "client_id": "156831717753-dimvi8tk325cgaefufsmrt3p6r3hjsmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT72QUpbF5_2kRjFHzEEQ6q5wFWSRiIlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156831717753-dimvi8tk325cgaefufsmrt3p6r3hjsmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

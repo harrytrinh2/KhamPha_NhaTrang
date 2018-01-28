@@ -1,0 +1,96 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+<<<<<<< HEAD
+    <!-- Base application theme. -->
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#616161</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
+    <!-- Number application theme. -->
+    <style name="NumberTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#81C784</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Family application theme. -->
+    <style name="FamilyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4DB6AC</item>
+        <item name="colorPrimaryDark">#00796B</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Color application theme. -->
+    <style name="ColorTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4DD0E1</item>
+        <item name="colorPrimaryDark">#0097A7</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Phrases application theme. -->
+    <style name="PhraseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4FC3F7</item>
+        <item name="colorPrimaryDark">#0288D1</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="itemMenu">
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_height">88sp</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+
+=======
+>>>>>>> 13ed390808fb6e7407fc501414302a0d384bec2f
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="CollapsedAppbar" parent="@android:style/TextAppearance.Medium">
+
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">normal</item>
+
+    </style>
+<<<<<<< HEAD
+
+    <style name="ExpandedAppbar" parent="@android:style/TextAppearance.Material.Title">
+=======
+    <style name="ExpandedAppbar" parent="@android:style/TextAppearance.Material.Title">
+
+>>>>>>> 13ed390808fb6e7407fc501414302a0d384bec2f
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">normal</item>
+
+    </style>
+
+</resources>
