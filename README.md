@@ -22,12 +22,7 @@
 <p align="center">
   <img width="400" height="600" src="https://github.com/TrinhDinhPhuc/KhamPha_NhaTrang/blob/master/Photo/asss.PNG">
 </p>    
-<<<<<<< HEAD
 
-
-### **Harry- (PhucCoi)** | phuccoi996@gmail.com 
-"# sadsd" 
-=======
 [...]
 <p align="center">
   <img width="400" height="600" src="https://github.com/TrinhDinhPhuc/KhamPha_NhaTrang/blob/master/Photo/pic4.PNG">
@@ -92,4 +87,4 @@
 </p>        
 
 ### **Harry- (PhucCoi)** | phuccoi996@gmail.com 
->>>>>>> 13ed390808fb6e7407fc501414302a0d384bec2f
+
