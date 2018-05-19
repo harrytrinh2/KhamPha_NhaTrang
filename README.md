@@ -1,7 +1,5 @@
 # KhamPha_NhaTrang
 :christmas_tree: News application for those who likes simplicity  :christmas_tree:
-
-# Py-Data-Science-Course
 [Home]
 <p align="center">
   <img width="400" height="600" src="https://github.com/TrinhDinhPhuc/KhamPha_NhaTrang/blob/master/Photo/pic1.PNG">
